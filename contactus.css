@@ -1,0 +1,213 @@
+.hs_cos_wrapper_module_1688964431729197{
+--text-size-adjust: 100%;
+--tap-highlight-color: rgba(0,0,0,0);
+color: #333;
+font-size: 14px;
+line-height: 1.42857143;
+font-family: EffraRegular, "Myriad Pro", Arial, "Arial Black" !important;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.round-sright{
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+color: #333;
+font-size: 14px;
+line-height: 1.42857143;
+font-family: EffraRegular, "Myriad Pro", Arial, "Arial Black" !important;
+margin: 0;
+box-sizing: border-box;
+display: block;
+margin-top: -50px;
+padding: 20px 0 70px;
+position: relative;
+z-index: -1;
+background-image: url(https://www.cyient.com/hubfs/Mask%20group.svg);
+}
+.wrapper-in{
+    -text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    color: #333;
+    font-size: 14px;
+    line-height: 1.42857143;
+    font-family: EffraRegular, "Myriad Pro", Arial, "Arial Black" !important;
+    box-sizing: border-box;
+    display: block;
+    padding: 50px;
+    background-size: cover;
+    background-image: url(https://www.cyient.com/hubfs/section_before.png);
+}
+section.round-sright.counter-section .col-12.col-md-5.col-md-offset-1 {
+    order: -1
+}
+
+.counter-state {
+    align-items: center;
+    background: var(--color-white,#fff);
+    border-radius: 10px;
+    box-shadow: 0 25px 100px 0 rgba(76,64,247,.08);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    padding: 30px 25px
+}
+
+.col-12.col-md-6 {
+    width: 50%
+}
+
+.col-12.col-md-5.col-md-offset-1 {
+    margin-left: 5%;
+    width: 45%
+}
+
+.innovation-partner .row {
+    margin-left: -15px
+}
+
+section.round-sright.counter-section .row.align-items-center.d-flexs>div {
+    padding: 0
+}
+
+.counter-state h2 {
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -.4px;
+    line-height: 72px;
+    margin: 0;
+    text-align: center
+}
+
+body .counter-section .ph p {
+    color: #5b6674;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 28px;
+    position: relative;
+    z-index: 1
+}
+
+.counter-section p strong {
+    color: #009ca5
+}
+
+.counter-state h5 {
+    color: #14133b;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: center
+}
+
+section.round-sright.counter-section .right-img-rpounds1 {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto
+}
+
+.counter-state {
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 1
+}
+
+.counter-state:nth-child(2n) {
+    grid-column-end: 3;
+    grid-column-start: 2;
+    grid-row-end: 4;
+    grid-row-start: 2
+}
+
+.counter-state:nth-child(4n) {
+    grid-column-end: 3;
+    grid-column-start: 2;
+    grid-row-end: 10;
+    grid-row-start: 4
+}
+
+.counter-state:nth-child(3n) {
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 8;
+    grid-row-start: 3
+}
+
+section.round-sright.counter-section {
+    margin-top: -50px;
+    padding: 20px 0 70px;
+    position: relative;
+    z-index: -1
+}
+
+section.round-sright.counter-section .row.align-items-center.d-flexs {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 100px
+}
+
+.counter-state p {
+    color: #6a7c92;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center
+}
+
+section.round-sright.counter-section h3 {
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+    background-size: cover;
+    font-size: 46px;
+    line-height: 55px;
+    margin-bottom: 50px;
+    text-transform: none;
+}
+
+section.round-sright h3 span.animate {
+    color: transparent;
+    font-size: 50px
+}
+
+@media(max-width: 991px) {
+    section.round-sright.counter-section {
+        z-index:0
+    }
+
+    section.round-sright h3,section.round-sright h3 span.animate {
+        font-size: 36px!important;
+        line-height: 40px!important;
+        margin-bottom: 0!important
+    }
+
+    section.round-sright.counter-section h2 {
+        font-size: 22px!important;
+        line-height: 30px!important
+    }
+
+    section.round-sright.counter-section .row.align-items-center.d-flexs>div {
+        padding: 0 15px;
+        width: 100%
+    }
+
+    section.round-sright.counter-section .right-img-rpounds1 {
+        display: block
+    }
+
+    .counter-state {
+        margin-bottom: 20px
+    }
+}
+
+
+
