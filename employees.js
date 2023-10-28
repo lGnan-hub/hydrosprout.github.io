@@ -38,7 +38,7 @@ var staff = {
 				"extension": "1011"
 			},
 			{
-				"name": "G PREETHI",
+				"name": "GUNA PREETHI",
 				"primary": "SUSAN_MIDDEL.jpg",
 				"secondary": null,
 				"department": "Administration",
